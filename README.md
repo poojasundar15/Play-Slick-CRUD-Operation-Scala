@@ -1,4 +1,4 @@
-# Play Framework with slick -  CRUD Operations in SCALA!
+# CRUD Operations in SCALA Using "PLAY FRAMEWORK" with "Slick" database Connectiv
 
 This is a Simple project of Crud operations in Scala using **Play framework** with **Slick** database **MySql**.
 
